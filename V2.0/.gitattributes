@@ -1,0 +1,6 @@
+#use a custom driver to diff merge LabVIEW files
+
+*.vi merge=labview diff=labview
+
+#set these as binary files
+*.lvbitx binary

@@ -1,0 +1,8 @@
+#Git Version Control Ignore list
+
+
+
+#ignore personal settings
+*.lvps
+
+
