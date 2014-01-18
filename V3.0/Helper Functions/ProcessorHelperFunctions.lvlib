@@ -13,6 +13,7 @@
 	<Item Name="Control AlgorithmV3.vi" Type="VI" URL="../Control AlgorithmV3.vi"/>
 	<Item Name="Edge Detect.vi" Type="VI" URL="../Edge Detect.vi"/>
 	<Item Name="Encoder to Angle conversion.vi" Type="VI" URL="../Encoder to Angle conversion.vi"/>
+	<Item Name="FrictionCompensation.vi" Type="VI" URL="../FrictionCompensation.vi"/>
 	<Item Name="Joystick Angle-Mag.vi" Type="VI" URL="../Joystick Angle-Mag.vi"/>
 	<Item Name="JoystickDeadband.vi" Type="VI" URL="../JoystickDeadband.vi"/>
 	<Item Name="JoystickToPoint.vi" Type="VI" URL="../JoystickToPoint.vi"/>
