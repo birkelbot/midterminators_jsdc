@@ -14,6 +14,7 @@
 	<Item Name="Edge Detect.vi" Type="VI" URL="../Edge Detect.vi"/>
 	<Item Name="Encoder to Angle conversion.vi" Type="VI" URL="../Encoder to Angle conversion.vi"/>
 	<Item Name="FrictionCompensation.vi" Type="VI" URL="../FrictionCompensation.vi"/>
+	<Item Name="InvertMotor.vi" Type="VI" URL="../InvertMotor.vi"/>
 	<Item Name="Joystick Angle-Mag.vi" Type="VI" URL="../Joystick Angle-Mag.vi"/>
 	<Item Name="JoystickDeadband.vi" Type="VI" URL="../JoystickDeadband.vi"/>
 	<Item Name="JoystickToPoint.vi" Type="VI" URL="../JoystickToPoint.vi"/>
@@ -25,4 +26,5 @@
 	<Item Name="PointToWheelAngle.vi" Type="VI" URL="../PointToWheelAngle.vi"/>
 	<Item Name="Scale Encoder.vi" Type="VI" URL="../Scale Encoder.vi"/>
 	<Item Name="Scale Motor Output.vi" Type="VI" URL="../Scale Motor Output.vi"/>
+	<Item Name="SteeringAssist.vi" Type="VI" URL="../SteeringAssist.vi"/>
 </Library>
