@@ -21,6 +21,7 @@
 	<Item Name="JoystickToPWMScale.vi" Type="VI" URL="../JoystickToPWMScale.vi"/>
 	<Item Name="LP-AP filter.vi" Type="VI" URL="../LP-AP filter.vi"/>
 	<Item Name="MagDir to MotorOut.vi" Type="VI" URL="../MagDir to MotorOut.vi"/>
+	<Item Name="Manipulators_Control_Alg.vi" Type="VI" URL="../Manipulators_Control_Alg.vi"/>
 	<Item Name="Normalize Angle.vi" Type="VI" URL="../Normalize Angle.vi"/>
 	<Item Name="PIDByError.vi" Type="VI" URL="../PIDByError.vi"/>
 	<Item Name="PointToWheelAngle.vi" Type="VI" URL="../PointToWheelAngle.vi"/>
