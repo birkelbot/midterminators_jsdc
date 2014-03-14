@@ -2,5 +2,5 @@
 iRobotics-sbRIO = "192.168.1.200"
 
 [My Computer]
-My Computer = "127.0.0.1"
+My Computer = "172.16.181.54"
 
