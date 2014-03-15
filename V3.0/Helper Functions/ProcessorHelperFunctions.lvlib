@@ -17,6 +17,7 @@
 	<Item Name="InvertMotor.vi" Type="VI" URL="../InvertMotor.vi"/>
 	<Item Name="Joystick Angle-Mag.vi" Type="VI" URL="../Joystick Angle-Mag.vi"/>
 	<Item Name="JoystickDeadband.vi" Type="VI" URL="../JoystickDeadband.vi"/>
+	<Item Name="JoystickScaler.vi" Type="VI" URL="../../../../../Desktop/Test/V3.0/Helper Functions/JoystickScaler.vi"/>
 	<Item Name="JoystickToPoint.vi" Type="VI" URL="../JoystickToPoint.vi"/>
 	<Item Name="JoystickToPWMScale.vi" Type="VI" URL="../JoystickToPWMScale.vi"/>
 	<Item Name="Latch.vi" Type="VI" URL="../Latch.vi"/>
